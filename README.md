@@ -10,7 +10,8 @@ LangChain is a framework for developing applications powered by language models.
 Pinecone is a scalable vector database for machine learning. It allows users to index and search large sets of high-dimensional vectors (such as embeddings) in real-time. Pinecone is designed to be fast, efficient, and easy to use, with APIs available for popular programming languages like Python, Java, and Go.
 
 ### Installation
-```!pip install pinecone-client
+```
+!pip install pinecone-client
 !pip install tiktoken
 !pip install langchain```
 
