@@ -15,6 +15,6 @@ Pinecone is a scalable vector database for machine learning. It allows users to 
 !pip install langchain```
 
 ### SET VALUE 
-```OPENAI_API_KEY = ''
+OPENAI_API_KEY = ''
 PINECONE_API_KEY = ''
-PINECONE_API_ENV = ''```
+PINECONE_API_ENV = ''
